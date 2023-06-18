@@ -8,6 +8,8 @@ Diseñado bajo la arquitectura de MVVM, consta de 4 pantallas que permiten visua
 ![WhatsApp Image 2023-06-18 at 11 58 31 AM](https://github.com/leonelpacheco/moviedbapilp/assets/11334506/d6b025a5-6606-4bc7-82e6-ff2aaff2ce5b)
 ![WhatsApp Image 2023-06-18 at 11 58 47 AM](https://github.com/leonelpacheco/moviedbapilp/assets/11334506/82e5a7f3-f120-4484-85c2-703c1c4df795)
 ![WhatsApp Image 2023-06-18 at 11 59 08 AM](https://github.com/leonelpacheco/moviedbapilp/assets/11334506/eff9bace-24da-4462-affa-deb86190d009)
+![image](https://github.com/leonelpacheco/moviedbapilp/assets/11334506/ff4cc617-ea67-4737-b83d-35e3212294b6)
+![image](https://github.com/leonelpacheco/moviedbapilp/assets/11334506/ba9f9792-2cd7-436c-8dd0-dd7bd2f2d59c)
 
 ## Mejoras
 
