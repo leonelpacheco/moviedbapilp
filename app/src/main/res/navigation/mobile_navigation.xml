@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_profile">
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.leonel.pruebasmoviedbbottom.ui.perfil.PerfilFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/navigation_movie"
+        android:name="com.leonel.pruebasmoviedbbottom.ui.movies.MovieFragment"
+        android:label="@string/title_movie"
+        tools:layout="@layout/fragment_movie" />
+
+    <fragment
+        android:id="@+id/navigation_map"
+        android:name="com.leonel.pruebasmoviedbbottom.ui.map.MapFragment"
+        android:label="@string/title_map"
+        tools:layout="@layout/fragment_map" />
+    <fragment
+        android:id="@+id/navigation_image"
+        android:name="com.leonel.pruebasmoviedbbottom.ui.images.ImagesFragment"
+        android:label="@string/title_images"
+        tools:layout="@layout/fragment_image" />
+</navigation>

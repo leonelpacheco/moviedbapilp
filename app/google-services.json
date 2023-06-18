@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196762048060",
+    "project_id": "moviedblp",
+    "storage_bucket": "moviedblp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196762048060:android:9fbfe0613fb548dcde5539",
+        "android_client_info": {
+          "package_name": "com.leonel.pruebasmoviedbbottom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196762048060-6vka6usa58prjej38o9qt4ds5p2qknii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiGLi2cf-Cr4IngviqztBpgIVPmCqr2m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196762048060-6vka6usa58prjej38o9qt4ds5p2qknii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">pruebasmoviedbbottom</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_movie">Peliculas</string>
+    <string name="title_map">Ubicacion</string>
+    <string name="title_images">Imagenes</string>
+
+    <string name="perfil_titleperfil">Gabby Morrison</string>
+    <string name="perfil_subtitleperfil">Apasionada de las series de suspenso y de drama. Siempre al pendiente de cualquier pelicula que nos lleve a un mundo de fantasía</string>
+
+    <string name="rowreview_titlereview">Hambre</string>
+    <string name="rowreview_calificaciones">4</string>
+    <string name="rowreview_descripciones">La película está llena de momentos tensos que se intensifican gracias al montaje acelerado de la preparación de los alimentos, en conjunción con su score de tintes jazzísticos</string>
+
+
+    <string name="nav_header_titlepopulares">Populares</string>
+    <string name="nav_header_titlemascalificadas">Mas calificadas</string>
+    <string name="nav_header_titlerecomendaciones">Recomendaciones</string>
+
+    <string name="includepropiedades_txt_textabv">Edad</string>
+    <string name="includepropiedades_txt_abv">28</string>
+    <string name="includepropiedades_txt_textibu">Sexo</string>
+    <string name="includepropiedades_txt_ibu">Mujer</string>
+    <string name="includepropiedades_txt_textog">Reviews</string>
+    <string name="includepropiedades_txt_og">5</string>
+    <string name="includepropiedades_txt_textfg">ID</string>
+    <string name="includepropiedades_txt_fg">1010</string>
+
+</resources>
